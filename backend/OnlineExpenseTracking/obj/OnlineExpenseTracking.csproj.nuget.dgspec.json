@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\OnlineExpenseTracking\\OnlineExpenseTracking.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "projectName": "BusinessLogicLayer",
+        "projectPath": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\pv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\pv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\OnlineExpenseTracking\\OnlineExpenseTracking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\OnlineExpenseTracking\\OnlineExpenseTracking.csproj",
+        "projectName": "OnlineExpenseTracking",
+        "projectPath": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\OnlineExpenseTracking\\OnlineExpenseTracking.csproj",
+        "packagesPath": "C:\\Users\\pv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\OnlineExpenseTracking\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+              },
+              "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\pv\\source\\repos\\OnlineExpenseTracking\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

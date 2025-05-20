@@ -1,0 +1,32 @@
+CategoryId,Amount,Description,Type,,,,,,,,,CategoryId,CategoryName,Type
+13,50.75,Lunch Expense,Expense,,,,,,,,,1,Fast Food,Expense
+23,200,Freelance Income,Income,,,,,,,,,2,Drinks,Expense
+1,100,Fast Food,Expense,,,,,,,,,3,Electricity,Expense
+3,300.2,Electricity Bill,Expense,,,,,,,,,4,Bills,Expense
+4,400,Home Bil,Expense,,,,,,,,,5,Home,Expense
+24,1203,Investment,Income,,,,,,,,,6,Car Maintenance,Expense
+,,,,,,,,,,,,7,Groceries,Expense
+,,,,,,,,,,,,8,Travel,Expense
+,,,,,,,,,,,,9,Medical,Expense
+,,,,,,,,,,,,10,Tuition,Expense
+,,,,,,,,,,,,11,Sports,Expense
+,,,,,,,,,,,,12,Entertainment,Expense
+,,,,,,,,,,,,13,Phone,Expense
+,,,,,,,,,,,,14,Internet,Expense
+,,,,,,,,,,,,15,Fitness,Expense
+,,,,,,,,,,,,16,Credit Card Payment,Expense
+,,,,,,,,,,,,17,Repair,Expense
+,,,,,,,,,,,,18,Pets,Expense
+,,,,,,,,,,,,19,Shopping,Expense
+,,,,,,,,,,,,20,Music,Expense
+,,,,,,,,,,,,21,Wine & Bar,Expense
+,,,,,,,,,,,,22,Salary,Income
+,,,,,,,,,,,,23,Freelance,Income
+,,,,,,,,,,,,24,Investment,Income
+,,,,,,,,,,,,25,Gift,Income
+,,,,,,,,,,,,26,Bonus,Income
+,,,,,,,,,,,,27,Rental Income,Income
+,,,,,,,,,,,,28,Savings,Income
+,,,,,,,,,,,,29,Dividend,Income
+,,,,,,,,,,,,30,Commission,Income
+,,,,,,,,,,,,31,Business Income,Income

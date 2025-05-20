@@ -3,13 +3,12 @@
 **A simple, powerful tool to manage your finances, track expenses, and analyze spending habits.**
 ---
 Some of the real footages of the web application
-![image](https://github.com/user-attachments/assets/a46a8a74-6113-4213-9b57-b0e2387e57e0)
 
-![image](https://github.com/user-attachments/assets/be224bec-bc00-44b1-98f1-b2e59ddf5223)
+![image](https://github.com/user-attachments/assets/5362a60f-c86b-46ac-8813-29c9e7992094)
 
-![image](https://github.com/user-attachments/assets/9a01aaba-82f7-4bb5-b567-dc941fe6e4a3)
+![image](https://github.com/user-attachments/assets/a3959dc0-55a1-41f3-ba3f-e4c8fadba8a4)
 
-
+![image](https://github.com/user-attachments/assets/f67aa04c-c50e-4507-a530-6ba75c72a3e6)
 
 
 
